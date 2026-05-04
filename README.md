@@ -33,6 +33,6 @@ pip install streamlit
 To run the code find the terminal and type this streamlit run App.py
 
 • GitHub Repository Link
-(https://github.com/rossanmahusay8-cmyk/Ross-an_streamlit-)
+(https://github.com/rossanmahusay8-cmyk/Streamlit/blob/main/README.md)
 • Streamlit Live App Link
 (Https://rossanmahusay8-cmyk.github.io/Streamlit/)
